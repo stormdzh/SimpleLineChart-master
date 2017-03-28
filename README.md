@@ -1,7 +1,7 @@
 # An Android simple LineChart 
 
 ###Perview
-![image](https://github.com/stormdzh/SimpleLineChart-master/raw/master/perview.jpg)
+![image](https://github.com/stormdzh/SimpleLineChart-master/blob/master/perview.png)
 ###How To Use
 Add a SimpleLineChart into your XML.
 
